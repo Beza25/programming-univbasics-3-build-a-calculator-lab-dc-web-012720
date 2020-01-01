@@ -5,13 +5,11 @@ end
 
 def subtraction(num1, num2)
   difference = num1 - num2
-  puts difference
 
 end
 
 def division(num1, num2)
   qoutient = num1 / num2
-  puts qoutient
 
 end
 
