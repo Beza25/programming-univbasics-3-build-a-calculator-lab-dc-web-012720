@@ -20,12 +20,10 @@ end
 
 def modulo(num1, num2)
   modulo= num1 % num2
-  puts modulo
   
-
 end
 
 def square_root(num)
-  puts Math.sqrt(num)
+  Math.sqrt(num)
 
 end
